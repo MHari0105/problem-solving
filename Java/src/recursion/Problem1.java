@@ -1,4 +1,4 @@
-package recurssion;
+package recursion;
 
 public class Problem1 {
 
